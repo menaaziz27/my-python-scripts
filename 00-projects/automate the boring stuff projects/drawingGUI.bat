@@ -1,0 +1,1 @@
+"C:\Users\3azzouz\AppData\Local\Programs\Python\Python38-32" "C:/Users/3azzouz/mypythonscripts/drawingGUI.py"
